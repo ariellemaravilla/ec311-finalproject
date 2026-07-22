@@ -1,4 +1,6 @@
-# EC-311-Project: FPGA Whack-a-Mole
+# EC311 Final Project: FPGA Whack-a-Mole
+
+This repository is my fork of the team project completed for EC311: Introduction to Logic and Design at Boston University.
 
 ![alt text](https://github.com/jniss1/EC-311-Project-/blob/a3ef40bc5f97d0d1c561caa06e85e6b59d46cd90/Idea.GIF)
 _____________________________________________________
